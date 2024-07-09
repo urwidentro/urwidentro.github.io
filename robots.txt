@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urwidentro.github.io/sitemap
+Sitemap: https://urwidentro.github.io/app/sitemap
+Sitemap: https://urwidentro.github.io/assets/sitemap
+Sitemap: https://urwidentro.github.io/css/sitemap
+Sitemap: https://urwidentro.github.io/includes/sitemap
+Sitemap: https://urwidentro.github.io/item/sitemap
+Sitemap: https://urwidentro.github.io/src/sitemap
